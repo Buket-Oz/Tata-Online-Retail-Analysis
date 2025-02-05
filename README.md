@@ -29,7 +29,8 @@ The dataset consists of **online retail transaction records from 2011**, includi
 
 **Final cleaned dataset shape:** **514,376 rows, 8 columns**  
 
-📌 **A detailed Data Cleaning & EDA report is provided as a separate document.**  
+*A detailed Data Cleaning & EDA report is provided as a separate document
+
 ---
 
 
@@ -37,22 +38,30 @@ The dataset consists of **online retail transaction records from 2011**, includi
 
 This analysis identifies **revenue trends, high-value markets, and customer segments** that can drive future growth. 
 
-### **📈 Revenue Trends**
+### **Revenue Trends**
 - **Peak revenue in November (~$1M)** possibly driven by **Black Friday and early holiday shopping.**  
 - **December revenue drop (~$370K)** suggests **demand shifts earlier in Q4.**  
 
-### **🌍 Market-Specific Demand Patterns (Top 10 Countries)**
+### **Market-Specific Demand Patterns (Top 10 Countries)**
 - **Netherlands, France, Germany, and Ireland** account for **~9% of total revenue**, with **both high sales volume and strong demand.**  
 - **Australia, Spain, Switzerland, Belgium, Portugal, and Norway** contribute **~3% of total revenue** with **steady market demand and lower sales volume.**  
 - **Ireland & Australia have higher revenue per unit, while France & Belgium are more volume-driven.**  
 
-### **👥 Customer Insights**
+### **Customer Insights**
 - **Top 10 customers contribute ~9% of total revenue.**  
-- **Frequent buyers ≠ highest spenders**, indicating a **need for separate engagement strategies.**  
+- **Frequent buyers ≠ highest spenders**, indicating a **need for separate engagement strategies.**
+
+### **Regional Demand & Expansion Opportunities**
+- **Western Europe & Australia dominate in total quantity sold, highlighting strong regional demand.**  
+- **Netherlands, Germany, France, Ireland, and Australia are key markets driving high product demand.**  
+
+
+![Screenshot 2025-02-05 at 16 32 23](https://github.com/user-attachments/assets/52554a36-2ebd-415a-8904-e407a2d323c3)
+
 
 ---
 
-## **📌 Insights Deep Dive**
+## **📌 Insights Deep Dive & Recommendations**
 
 ### **1️⃣ Revenue Performance & Seasonal Demand**
 - **Revenue peaked in November (~$1M) but dropped significantly in December (~$370K).**  
@@ -60,6 +69,9 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
 
 ✔ **Optimize Q4 promotions** by launching earlier to maintain post-November revenue.  
 ✔ **Adjust marketing efforts per country** to match **localized seasonal demand cycles.**  
+
+![Screenshot 2025-02-05 at 16 34 36](https://github.com/user-attachments/assets/c927f2f6-d87f-43f5-b3e2-05ff601f149d)
+
 
 ---
 
@@ -70,7 +82,10 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
   ✔ **Moderate Revenue & Quantity** – Australia, Spain, Switzerland, Belgium, Portugal, and Norway have **steady demand but lower total sales volume.**  
 
 ✔ **Premium Markets (Ireland, Australia):** Prioritize **high-value product promotions** to maximize per-unit revenue.  
-✔ **Volume-Driven Markets (France, Belgium, Norway):** Implement **pricing optimization & bundling strategies** to boost per-unit revenue.  
+✔ **Volume-Driven Markets (France, Belgium, Norway):** Implement **pricing optimization & bundling strategies** to boost per-unit revenue. 
+
+![Screenshot 2025-02-05 at 16 34 17](https://github.com/user-attachments/assets/b11722b5-032f-4c58-9c05-12eb4f3df9a1)
+
 
 ---
 
@@ -135,5 +150,7 @@ This revision **removes unnecessary repetition, improves readability, and ensure
 
 ## **Final Deliverables**  
 
-📊 **[Tableau Dashboard with Interactive Sales Insights](#)**  
-📄 **[Data Cleaning & EDA Report](#)**  
+📊 [Tableau Story Board with Interactive Sales Insights](https://public.tableau.com/app/profile/buket.oztekin/viz/TataOnlineRetail_17385946205930/TataOnlineRetail-StoryBoard)
+
+📄 [Data Cleaning and EDA report](https://docs.google.com/document/d/1py6YwCyPSPAOKS8F337LnPJDdcFFgOQfSIt2tN-Gxpc/edit?usp=sharing)
+ 
