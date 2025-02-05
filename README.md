@@ -1,4 +1,4 @@
-# **Tata Online Retail **
+# **Tata Online Retail Analysis **
 **Analysis of Online Retail Transactions** focusing on **revenue trends, demand insights, and market expansion opportunities**, with **data cleaning, exploratory analysis, and interactive visualizations in Tableau**.
 
 ---
