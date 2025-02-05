@@ -19,9 +19,11 @@ Tata's online retail business processes thousands of transactions annually acros
 
 ---
 
+
 ## **Data Structure & Initial Checks**
 
-The dataset consists of **online retail transaction records from 2011**, including:  
+The dataset consists of **online retail transaction records from 2010 and 2011**, including:
+
 - **Product details** (Descriptions, Stock Code)  
 - **Sales metrics** (Quantity, Unit Prices)  
 - **Customer Information** (Customer ID, Country)  
@@ -29,7 +31,11 @@ The dataset consists of **online retail transaction records from 2011**, includi
 
 **Final cleaned dataset shape:** **514,376 rows, 8 columns**  
 
-*A detailed Data Cleaning & EDA report is provided as a separate document
+**Data Cleaning & Exploratory Analysis** was performed in **Python (pandas, NumPy, Matplotlib, Seaborn)** to ensure data quality before analysis.  
+
+📄 [Data Cleaning and EDA report](https://docs.google.com/document/d/1py6YwCyPSPAOKS8F337LnPJDdcFFgOQfSIt2tN-Gxpc/edit?usp=sharing)
+📜 **[Python Script for Data Cleaning & EDA](./data_cleaning_eda.py)**
+
 
 ---
 
@@ -58,6 +64,7 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
 
 ![Screenshot 2025-02-05 at 16 32 23](https://github.com/user-attachments/assets/52554a36-2ebd-415a-8904-e407a2d323c3)
 
+📊 [Tableau Performance DashBoard](https://public.tableau.com/authoring/TataOnlineRetail-Dashboard/PerformanceDashboard#1)
 
 ---
 
@@ -71,6 +78,7 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
 ✔ **Adjust marketing efforts per country** to match **localized seasonal demand cycles.**  
 
 ![Screenshot 2025-02-05 at 16 34 36](https://github.com/user-attachments/assets/c927f2f6-d87f-43f5-b3e2-05ff601f149d)
+
 
 
 ---
