@@ -61,7 +61,7 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
 
 ---
 
-## **📌 Insights Deep Dive & Recommendations**
+## **Insights Deep Dive & Recommendations**
 
 ### **1️⃣ Revenue Performance & Seasonal Demand**
 - **Revenue peaked in November (~$1M) but dropped significantly in December (~$370K).**  
