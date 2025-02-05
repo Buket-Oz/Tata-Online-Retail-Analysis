@@ -137,7 +137,7 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
    - **Speed up order processing**  
 ---
 
-## **Next Steps & Future Analysis**
+## **Future Analysis**
 **Deeper Analysis of Country-Specific Peak Times** – Understanding what drives demand spikes (holiday impact, weather, local events).  
 
 **Product Preferences by Country** – Identifying which product categories contribute the most to revenue in different regions.  
