@@ -87,8 +87,8 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
 ### **2️⃣ Market-Specific Demand Patterns**
 - **Two distinct market categories** emerged among the top 10 revenue-generating countries:  
 
-  ✔ **High Revenue & Quantity** – Netherlands, France, Germany, and Ireland show **both strong demand and high sales volume.**  
-  ✔ **Moderate Revenue & Quantity** – Australia, Spain, Switzerland, Belgium, Portugal, and Norway have **steady demand but lower total sales volume.**  
+- **High Revenue & Quantity** – Netherlands, France, Germany, and Ireland show **both strong demand and high sales volume.**  
+- **Moderate Revenue & Quantity** – Australia, Spain, Switzerland, Belgium, Portugal, and Norway have **steady demand but lower total sales volume.**  
 
 ✔ **Premium Markets (Ireland, Australia):** Prioritize **high-value product promotions** to maximize per-unit revenue.  
 ✔ **Volume-Driven Markets (France, Belgium, Norway):** Implement **pricing optimization & bundling strategies** to boost per-unit revenue. 
