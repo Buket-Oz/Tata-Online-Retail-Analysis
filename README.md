@@ -9,11 +9,11 @@ Tata's online retail business processes thousands of transactions annually acros
 
 ### **Key Business Questions**
 
-#### **For the CEO:**
+#### **The CEO's questions:**
 1️⃣ How does revenue fluctuate throughout the year?  
 2️⃣ Which regions have the highest demand for Tata’s products?  
 
-#### **For the CMO:**
+#### **The CMO's questions:**
 3️⃣ Which countries generate the highest revenue and quantity sold?  
 4️⃣ Who are the top revenue-generating customers?  
 
