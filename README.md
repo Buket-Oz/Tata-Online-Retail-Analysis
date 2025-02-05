@@ -34,6 +34,7 @@ The dataset consists of **online retail transaction records from 2010 and 2011**
 **Data Cleaning & Exploratory Analysis** was performed in **Python (pandas, NumPy, Matplotlib, Seaborn)** to ensure data quality before analysis.  
 
 📄 [Data Cleaning and EDA report](https://docs.google.com/document/d/1py6YwCyPSPAOKS8F337LnPJDdcFFgOQfSIt2tN-Gxpc/edit?usp=sharing)
+
 📜 **[Python Script for Data Cleaning & EDA](https://github.com/Buket-Oz/Tata-Online-Retail/blob/main/Tata%20Retail%20-%20Data%20Cleaning%20and%20EDA.ipynb)**
 
 
