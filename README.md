@@ -118,16 +118,23 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
 ---
 
 ## **Key Takeaways & Next Steps**
-✅ Implement targeted seasonal promotions by aligning campaigns with country-specific peak periods (e.g., EOFY sales in Australia, back-to-school promotions in Ireland, Sinterklaas marketing in the Netherlands).
+✅ **Implement targeted seasonal promotions** by aligning campaigns with country-specific peak periods:  
+   - **EOFY sales in Australia** (June)  
+   - **Back-to-school promotions in Ireland** (September)  
+   - **Sinterklaas marketing in the Netherlands** (November)  
 
-✅ Refine pricing strategies by segmenting markets:
+✅ **Refine pricing strategies** by segmenting markets:  
+   - **Premium markets (Ireland, Australia)** → Promote high-value products & limited-edition offerings.  
+   - **Volume-driven markets (France, Belgium, Norway)** → Use bundling, upselling, or loyalty discounts to increase per-unit revenue.  
 
-Premium markets (Ireland, Australia) → Promote high-value products & limited-edition offerings.
-Volume-driven markets (France, Belgium, Norway) → Use bundling, upselling, or loyalty discounts to increase per-unit revenue.
-✅ Enhance high-value customer retention by launching an exclusive VIP loyalty program with early access to sales, personalized offers, and priority customer support.
+✅ **Enhance high-value customer retention** by launching an exclusive **VIP loyalty program** with:  
+   - Early access to sales  
+   - Personalized offers  
+   - Priority customer support  
 
-✅ Streamline logistics & fulfillment in high-demand regions by improving warehousing & delivery networks in Western Europe & Australia to reduce shipping costs and speed up order processing.
-
+✅ **Streamline logistics & fulfillment in high-demand regions** by improving **warehousing & delivery networks** in **Western Europe & Australia** to:  
+   - **Reduce shipping costs**  
+   - **Speed up order processing**  
 ---
 
 ## **Next Steps & Future Analysis**
