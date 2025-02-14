@@ -114,6 +114,7 @@ This analysis identifies **revenue trends, high-value markets, and customer segm
 ✔ **Invest in regional warehousing & delivery solutions** to **reduce shipping costs & delivery times.**  
 ✔ **Adapt supply chain strategies** for **high-volume international markets.**  
 
+<img width="345" alt="Screenshot 2025-02-14 at 12 28 23" src="https://github.com/user-attachments/assets/e60bd004-d904-4415-98b0-759fa8db1ac4" />
 
 ---
 
